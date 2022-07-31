@@ -1,0 +1,19 @@
+if game.PlaceId == 7541759836 then
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/sombolian/scripts/main/%E5%87%B9%E5%87%B8%E4%B8%96%E7%95%8C%EF%BC%9A%E8%87%AA%E7%94%B1%E4%B8%9B%E6%9E%97'))()
+end
+
+if game.PlaceId == 10105990977 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/EZICTHRONE/Games/main/SST", true)()
+end
+
+if game.PlaceId == 8523408215 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/AloSanctuary.lua"))()
+end
+
+if game.PlaceId == 9377039667 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/EZICTHRONE/Games/main/RAIVH", true)()
+end
+
+if game.PlaceId ==  then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/EZICTHRONE/Games/main/RAIVH", true)()
+end

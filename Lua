@@ -1,24 +1,24 @@
-if HttpGetAsync.PlaceId == 7541759836 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/sombolian/scripts/main/%E5%87%B9%E5%87%B8%E4%B8%96%E7%95%8C%EF%BC%9A%E8%87%AA%E7%94%B1%E4%B8%9B%E6%9E%97'))()
+if HttpGet.PlaceId == 7541759836 then
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/sombolian/scripts/main/%E5%87%B9%E5%87%B8%E4%B8%96%E7%95%8C%EF%BC%9A%E8%87%AA%E7%94%B1%E4%B8%9B%E6%9E%97'))()
 end
-  
-if HttpGetAsync.PlaceId == 10105990977 then
+
+if HttpGet.PlaceId == 10105990977 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/EZICTHRONE/Games/main/SST", true))()
 end
   
-if HttpGetAsync.PlaceId == 8523408215 then
+if HttpGet.PlaceId == 8523408215 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/AloSanctuary.lua"))()
 end
   
-if HttpGetAsync.PlaceId == 9377039667 then
+if HttpGet.PlaceId == 9377039667 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/EZICTHRONE/Games/main/RAIVH", true))()
 end
   
-if HttpGetAsync.PlaceId == 7277488595 then
+if HttpGet.PlaceId == 7277488595 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/EZICTHRONE/Games/main/LaunchParty", true))()
 end
   
-if HttpGetAsync.PlaceId == 8967359816 then
+if HttpGet.PlaceId == 8967359816 then
     for i,v in pairs(workspace.Workspace:GetChildren()) do
      if v.ClassName == "Model" and v:FindFirstChild("Collectable-Mic") then
          firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, v["Collectable-Mic"], 0)
@@ -26,15 +26,15 @@ if HttpGetAsync.PlaceId == 8967359816 then
    end
 end
   
-if HttpGetAsync.PlaceId == 9726345231 then
+if HttpGet.PlaceId == 9726345231 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wlrd1337/duolingo/main/retard.lua'))()
 end
   
-if HttpGetAsync.PlaceId == 7603178367 then
+if HttpGet.PlaceId == 7603178367 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/ChipotleBurritoBuilder.lua"))()
 end
   
-if HttpGetAsync.PlaceId == 6679274937 then
+if HttpGet.PlaceId == 6679274937 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/PitchyATree/roblox/main/vans'))()
 end
 
